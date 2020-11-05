@@ -1,0 +1,31 @@
+{
+  "name": "Georgia",
+  "biden": 2376.983,
+  "trump": 2423.071,
+  "counties": [
+    {
+      "name": "Fulton",
+      "biden": 344.435,
+      "trump": 126.755,
+      "perc": 0.93
+    },
+    {
+      "name": "DeKalb",
+      "biden": 300.459,
+      "trump": 57.101,
+      "perc": 0.90
+    },
+    {
+      "name": "Clayton",
+      "biden": 87.867,
+      "trump": 14.743,
+      "perc": 0.84
+    },
+    {
+      "name": "Cobb",
+      "biden": 210.517,
+      "trump": 160.737,
+      "perc": 0.89
+    }
+  ]
+}

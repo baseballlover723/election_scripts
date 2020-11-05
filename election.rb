@@ -32,7 +32,7 @@ def get_str(current_biden_diff, biden_diff)
   numb_str = "#{diff_diff.abs.round(3)}K"
   numb_str = has_enough ? numb_str.light_green : numb_str.light_red
 
-
-  puts "Thats #{numb_str} #{has_enough ? "more" : "less"} then biden needs"
+  "Thats #{numb_str} #{has_enough ? "more" : "less"} then biden needs"
 end
+
 main
