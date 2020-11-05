@@ -1,7 +1,7 @@
 require "colorize"
 require "json"
 def main()
-  json = JSON.parse(File.read(ARGV[0]))
+  json = JSON.parse(File.read("#{ARGV[0]}.json"))
   name = json["name"]
   current_biden_state = json["biden"]
   current_trump_state = json["trump"]
