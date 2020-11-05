@@ -1,7 +1,7 @@
 {
   "name": "Arizona",
-  "biden": 1444.213,
-  "trump": 1365.04,
+  "biden": 1469.341,
+  "trump": 1400.951,
   "counties": [
     {
       "name": "Apache",
@@ -47,9 +47,9 @@
     },
     {
       "name": "Maricopa",
-      "biden": 887.457,
-      "trump": 802.16,
-      "perc": 0.8275666666666667
+      "biden": 912.585,
+      "trump": 838.071,
+      "perc": 0.8575193236714976
     },
     {
       "name": "Mohave",
