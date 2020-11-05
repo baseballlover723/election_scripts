@@ -5,3 +5,4 @@ source "https://rubygems.org"
 
 gem 'colorize', '~> 0.8'
 gem 'json', '~> 2.3'
+gem 'httparty', '~> 0.18'

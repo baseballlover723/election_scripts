@@ -6,4 +6,6 @@ to use run
 
 examples usage
 
-`ruby election.rb georgia.json`
+To calculate: `ruby election.rb georgia.json`
+
+To update data: `ruby update_data.rb georgia north-carolina pennsylvania nevada arizona`
