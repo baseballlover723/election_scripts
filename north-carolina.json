@@ -1,0 +1,115 @@
+{
+  "name": "North Carolina",
+  "biden": 2655.383,
+  "trump": 2732.12,
+  "counties": [
+    {
+      "name": "Beaufort",
+      "biden": 9.575,
+      "trump": 16.352,
+      "perc": 0.9333618721461188
+    },
+    {
+      "name": "Buncombe",
+      "biden": 95.881,
+      "trump": 61.983,
+      "perc": 0.9237638469864812
+    },
+    {
+      "name": "Carteret",
+      "biden": 11.999,
+      "trump": 29.886,
+      "perc": 0.956745182012848
+    },
+    {
+      "name": "Chowan",
+      "biden": 3.232,
+      "trump": 4.458,
+      "perc": 0.8838481705231962
+    },
+    {
+      "name": "Craven",
+      "biden": 20.977,
+      "trump": 30.831,
+      "perc": 0.954395564574576
+    },
+    {
+      "name": "Cumberland",
+      "biden": 83.533,
+      "trump": 59.498,
+      "perc": 0.9135102238005308
+    },
+    {
+      "name": "Forsyth",
+      "biden": 111.769,
+      "trump": 84.176,
+      "perc": 0.8904347435954956
+    },
+    {
+      "name": "Mecklenburg",
+      "biden": 375.503,
+      "trump": 178.066,
+      "perc": 0.9519042551571638
+    },
+    {
+      "name": "Mitchell",
+      "biden": 1.852,
+      "trump": 7.041,
+      "perc": 0.9450479907182786
+    },
+    {
+      "name": "New Hanover",
+      "biden": 64.876,
+      "trump": 62.42,
+      "perc": 0.9240282811818618
+    },
+    {
+      "name": "Orange",
+      "biden": 63.097,
+      "trump": 19.993,
+      "perc": 0.8162254068496478
+    },
+    {
+      "name": "Pamlico",
+      "biden": 2.699,
+      "trump": 4.815,
+      "perc": 0.9412057178371659
+    },
+    {
+      "name": "Pasquotank",
+      "biden": 9.653,
+      "trump": 9.626,
+      "perc": 0.9218122549251193
+    },
+    {
+      "name": "Perquimans",
+      "biden": 2.485,
+      "trump": 4.894,
+      "perc": 0.9493316359007002
+    },
+    {
+      "name": "Polk",
+      "biden": 4.485,
+      "trump": 7.643,
+      "perc": 0.9542834890965732
+    },
+    {
+      "name": "Robeson",
+      "biden": 17.998,
+      "trump": 25.927,
+      "perc": 0.9498861047835991
+    },
+    {
+      "name": "Wake",
+      "biden": 388.686,
+      "trump": 223.466,
+      "perc": 0.945342895698452
+    },
+    {
+      "name": "Wayne",
+      "biden": 23.986,
+      "trump": 30.505,
+      "perc": 0.9178773742085972
+    }
+  ]
+}

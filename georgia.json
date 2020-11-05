@@ -1,31 +1,235 @@
 {
   "name": "Georgia",
-  "biden": 2376.983,
-  "trump": 2423.071,
+  "biden": 2388.954,
+  "trump": 2427.95,
   "counties": [
     {
-      "name": "Fulton",
-      "biden": 344.435,
-      "trump": 126.755,
-      "perc": 0.93
+      "name": "Appling",
+      "biden": 1.769,
+      "trump": 6.517,
+      "perc": 0.9453595365216404
     },
     {
-      "name": "DeKalb",
-      "biden": 300.459,
-      "trump": 57.101,
-      "perc": 0.90
+      "name": "Atkinson",
+      "biden": 0.825,
+      "trump": 2.3,
+      "perc": 0.8746881064596618
+    },
+    {
+      "name": "Bacon",
+      "biden": 0.625,
+      "trump": 4.018,
+      "perc": 0.9341604962977786
+    },
+    {
+      "name": "Baker",
+      "biden": 0.652,
+      "trump": 0.894,
+      "perc": 0.874859075535513
+    },
+    {
+      "name": "Berrien",
+      "biden": 1.268,
+      "trump": 6.409,
+      "perc": 0.9438408008790136
+    },
+    {
+      "name": "Bibb",
+      "biden": 43.234,
+      "trump": 26.506,
+      "perc": 0.8529038802941923
+    },
+    {
+      "name": "Burke",
+      "biden": 4.836,
+      "trump": 5.179,
+      "perc": 0.9434985968194575
+    },
+    {
+      "name": "Calhoun",
+      "biden": 1.259,
+      "trump": 0.923,
+      "perc": 0.9168060200668896
+    },
+    {
+      "name": "Chatham",
+      "biden": 66.98,
+      "trump": 47.595,
+      "perc": 0.8703917395995684
     },
     {
       "name": "Clayton",
       "biden": 87.867,
       "trump": 14.743,
-      "perc": 0.84
+      "perc": 0.8421270920417026
     },
     {
-      "name": "Cobb",
-      "biden": 210.517,
-      "trump": 160.737,
-      "perc": 0.89
+      "name": "Dooly",
+      "biden": 1.908,
+      "trump": 2.155,
+      "perc": 0.8721004469035966
+    },
+    {
+      "name": "Dougherty",
+      "biden": 22.083,
+      "trump": 9.647,
+      "perc": 0.9333313873726612
+    },
+    {
+      "name": "Douglas",
+      "biden": 42.587,
+      "trump": 25.301,
+      "perc": 0.9297747107773493
+    },
+    {
+      "name": "Floyd",
+      "biden": 10.706,
+      "trump": 26.721,
+      "perc": 0.8814134604207835
+    },
+    {
+      "name": "Fulton",
+      "biden": 344.435,
+      "trump": 126.755,
+      "perc": 0.9255339805825242
+    },
+    {
+      "name": "Glascock",
+      "biden": 0.155,
+      "trump": 1.403,
+      "perc": 0.9067747539085119
+    },
+    {
+      "name": "Hancock",
+      "biden": 2.982,
+      "trump": 1.159,
+      "perc": 0.9310961968680089
+    },
+    {
+      "name": "Harris",
+      "biden": 3.642,
+      "trump": 12.567,
+      "perc": 0.8009848374043196
+    },
+    {
+      "name": "Jeff Davis",
+      "biden": 1.028,
+      "trump": 4.695,
+      "perc": 0.870627261761158
+    },
+    {
+      "name": "Jenkins",
+      "biden": 1.265,
+      "trump": 2.158,
+      "perc": 0.9117569352708058
+    },
+    {
+      "name": "Lincoln",
+      "biden": 1.432,
+      "trump": 3.175,
+      "perc": 0.9396883222019834
+    },
+    {
+      "name": "Macon",
+      "biden": 2.856,
+      "trump": 1.783,
+      "perc": 0.8917160895351062
+    },
+    {
+      "name": "Miller",
+      "biden": 0.747,
+      "trump": 2.063,
+      "perc": 0.9134925758553906
+    },
+    {
+      "name": "Muscogee",
+      "biden": 49.201,
+      "trump": 29.949,
+      "perc": 0.8880720944135686
+    },
+    {
+      "name": "Quitman",
+      "biden": 0.497,
+      "trump": 0.604,
+      "perc": 0.8969991889699919
+    },
+    {
+      "name": "Richmond",
+      "biden": 58.776,
+      "trump": 26.707,
+      "perc": 0.8563770337767668
+    },
+    {
+      "name": "Rockdale",
+      "biden": 30.396,
+      "trump": 12.782,
+      "perc": 0.894475455590215
+    },
+    {
+      "name": "Seminole",
+      "biden": 1.251,
+      "trump": 2.607,
+      "perc": 0.9213403041825095
+    },
+    {
+      "name": "Stewart",
+      "biden": 1.175,
+      "trump": 0.796,
+      "perc": 0.871749669457911
+    },
+    {
+      "name": "Sumter",
+      "biden": 5.497,
+      "trump": 5.346,
+      "perc": 0.845148821028218
+    },
+    {
+      "name": "Talbot",
+      "biden": 2.113,
+      "trump": 1.39,
+      "perc": 0.9221698113207547
+    },
+    {
+      "name": "Taliaferro",
+      "biden": 0.56,
+      "trump": 0.36,
+      "perc": 0.8803418803418803
+    },
+    {
+      "name": "Taylor",
+      "biden": 1.109,
+      "trump": 2.278,
+      "perc": 0.8653164556962025
+    },
+    {
+      "name": "Telfair",
+      "biden": 1.48,
+      "trump": 2.822,
+      "perc": 0.8929973146044206
+    },
+    {
+      "name": "Towns",
+      "biden": 1.549,
+      "trump": 6.374,
+      "perc": 0.9477816105626263
+    },
+    {
+      "name": "Twiggs",
+      "biden": 2.04,
+      "trump": 2.368,
+      "perc": 0.9458653026427962
+    },
+    {
+      "name": "Wilcox",
+      "biden": 0.862,
+      "trump": 2.403,
+      "perc": 0.9395761741122566
+    },
+    {
+      "name": "Wilkes",
+      "biden": 2.155,
+      "trump": 2.82,
+      "perc": 0.9448730009407338
     }
   ]
 }

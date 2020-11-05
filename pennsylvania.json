@@ -1,0 +1,163 @@
+{
+  "name": "Pennsylvania",
+  "biden": 3008.583,
+  "trump": 3199.567,
+  "counties": [
+    {
+      "name": "Allegheny",
+      "biden": 392.061,
+      "trump": 266.033,
+      "perc": 0.8862904637384437
+    },
+    {
+      "name": "Armstrong",
+      "biden": 5.242,
+      "trump": 24.945,
+      "perc": 0.8549678141617688
+    },
+    {
+      "name": "Berks",
+      "biden": 89.53,
+      "trump": 105.941,
+      "perc": 0.9366940100547024
+    },
+    {
+      "name": "Blair",
+      "biden": 14.628,
+      "trump": 41.824,
+      "perc": 0.8967249662448582
+    },
+    {
+      "name": "Bucks",
+      "biden": 167.283,
+      "trump": 170.495,
+      "perc": 0.856509383176634
+    },
+    {
+      "name": "Cambria",
+      "biden": 21.293,
+      "trump": 47.386,
+      "perc": 0.9510824995899623
+    },
+    {
+      "name": "Carbon",
+      "biden": 7.251,
+      "trump": 19.915,
+      "perc": 0.8473507795442664
+    },
+    {
+      "name": "Centre",
+      "biden": 38.978,
+      "trump": 35.849,
+      "perc": 0.8621564099080741
+    },
+    {
+      "name": "Chester",
+      "biden": 156.275,
+      "trump": 119.311,
+      "perc": 0.8970680675287356
+    },
+    {
+      "name": "Clarion",
+      "biden": 4.615,
+      "trump": 14.363,
+      "perc": 0.9455778968585615
+    },
+    {
+      "name": "Crawford",
+      "biden": 6.053,
+      "trump": 24.18,
+      "perc": 0.7241143288725247
+    },
+    {
+      "name": "Cumberland",
+      "biden": 40.234,
+      "trump": 67.021,
+      "perc": 0.7745612294082622
+    },
+    {
+      "name": "Delaware",
+      "biden": 174.699,
+      "trump": 108.315,
+      "perc": 0.8296013091772748
+    },
+    {
+      "name": "Erie",
+      "biden": 55.488,
+      "trump": 61.487,
+      "perc": 0.8293556751331307
+    },
+    {
+      "name": "Fayette",
+      "biden": 18.359,
+      "trump": 39.182,
+      "perc": 0.9550691244239631
+    },
+    {
+      "name": "Greene",
+      "biden": 2.21,
+      "trump": 10.708,
+      "perc": 0.732850566969799
+    },
+    {
+      "name": "Indiana",
+      "biden": 12.475,
+      "trump": 27.832,
+      "perc": 0.9320293063702554
+    },
+    {
+      "name": "Juniata",
+      "biden": 1.123,
+      "trump": 8.357,
+      "perc": 0.8130184526832571
+    },
+    {
+      "name": "Lehigh",
+      "biden": 69.102,
+      "trump": 72.402,
+      "perc": 0.766904772104181
+    },
+    {
+      "name": "Luzerne",
+      "biden": 62.983,
+      "trump": 84.649,
+      "perc": 0.9522480521139354
+    },
+    {
+      "name": "Mercer",
+      "biden": 12.544,
+      "trump": 31.394,
+      "perc": 0.7337420481887998
+    },
+    {
+      "name": "Monroe",
+      "biden": 31.261,
+      "trump": 33.168,
+      "perc": 0.8073833300375717
+    },
+    {
+      "name": "Montgomery",
+      "biden": 292.773,
+      "trump": 175.096,
+      "perc": 0.9371129052409879
+    },
+    {
+      "name": "Philadelphia",
+      "biden": 457.773,
+      "trump": 113.781,
+      "perc": 0.7025821950851067
+    },
+    {
+      "name": "Tioga",
+      "biden": 2.616,
+      "trump": 13.387,
+      "perc": 0.7886324125941665
+    },
+    {
+      "name": "Westmoreland",
+      "biden": 65.136,
+      "trump": 125.178,
+      "perc": 0.9136040988924088
+    }
+  ]
+}
