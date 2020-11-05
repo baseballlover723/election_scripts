@@ -8,12 +8,17 @@ def main()
   current_biden_diff = current_trump_state - current_biden_state
   counties = json["counties"]
   puts "biden currently needs #{current_biden_diff.round(3)}K votes to win in #{name}"
-  biden_diff = counties.sum do |county|
-    calc_county(county["biden"], county["trump"], county["perc"])
+  county_diffs = {}
+  counties.each do |county|
+    county_diffs[county["name"]] = calc_county(county["biden"], county["trump"], county["perc"])
   end
+  county_diffs = county_diffs.sort_by {|_key, value| -value}.to_h
 
+  biden_diff = county_diffs.values.sum
+  county_diffs_str = county_diffs.map{|k, v| [k, v > 0 ? "#{v.round(3)}K".light_green : "#{v.round(3).abs}K".light_red] }.to_h
   avg = biden_diff / counties.size
-  puts "counties data considered: #{counties.map{|c| c["name"]}}"
+
+  puts "counties data considered: #{unescape_str(JSON.generate(county_diffs_str))}}"
   puts "biden expected to get #{biden_diff.round(3)}K more votes over #{counties.size} counties (#{avg.round(3)}K per county avg)"
   puts get_str(current_biden_diff, biden_diff)
 end
@@ -33,6 +38,14 @@ def get_str(current_biden_diff, biden_diff)
   numb_str = has_enough ? numb_str.light_green : numb_str.light_red
 
   "Thats #{numb_str} #{has_enough ? "more" : "less"} then biden needs"
+end
+
+def unescape_hash(h)
+  eval("\"#{h.to_s.gsub('"', '\"')}\"")
+end
+
+def unescape_str(str)
+  eval("\"#{str.gsub('"', '\"')}\"")
 end
 
 main
