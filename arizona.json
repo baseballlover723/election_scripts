@@ -1,7 +1,7 @@
 {
   "name": "Arizona",
-  "biden": 1469.341,
-  "trump": 1400.951,
+  "biden": 1470.382,
+  "trump": 1401.807,
   "counties": [
     {
       "name": "Apache",
@@ -83,9 +83,9 @@
     },
     {
       "name": "Yuma",
-      "biden": 27.256,
-      "trump": 31.758,
-      "perc": 0.7678846153846154
+      "biden": 28.297,
+      "trump": 32.614,
+      "perc": 0.7927051282051282
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "Nevada",
-  "biden": 588.252,
-  "trump": 580.605,
+  "biden": 604.251,
+  "trump": 592.813,
   "counties": [
     {
       "name": "Carson City",
@@ -17,9 +17,9 @@
     },
     {
       "name": "Clark",
-      "biden": 422.762,
-      "trump": 362.573,
-      "perc": 0.8398304167152857
+      "biden": 431.863,
+      "trump": 367.279,
+      "perc": 0.8791275675675676
     },
     {
       "name": "Douglas",
@@ -29,9 +29,9 @@
     },
     {
       "name": "Elko",
-      "biden": 3.896,
-      "trump": 15.125,
-      "perc": 0.8508234476165646
+      "biden": 4.246,
+      "trump": 15.726,
+      "perc": 0.8940598791987138
     },
     {
       "name": "Esmeralda",
@@ -55,13 +55,7 @@
       "name": "Lincoln",
       "biden": 0.318,
       "trump": 1.949,
-      "perc": 0.8687594553706506
-    },
-    {
-      "name": "Lyon",
-      "biden": 7.956,
-      "trump": 19.655,
-      "perc": 0.9624300016969286
+      "perc": 0.8744326777609682
     },
     {
       "name": "Mineral",
@@ -71,9 +65,9 @@
     },
     {
       "name": "Nye",
-      "biden": 5.991,
-      "trump": 14.625,
-      "perc": 0.8792081652810931
+      "biden": 6.435,
+      "trump": 15.418,
+      "perc": 0.9167832743435673
     },
     {
       "name": "Pershing",
@@ -83,15 +77,15 @@
     },
     {
       "name": "Storey",
-      "biden": 0.897,
-      "trump": 1.897,
-      "perc": 0.9016393442622951
+      "biden": 0.899,
+      "trump": 1.903,
+      "perc": 0.9041614123581336
     },
     {
       "name": "Washoe",
-      "biden": 117.699,
-      "trump": 107.925,
-      "perc": 0.8901404987571412
+      "biden": 123.501,
+      "trump": 113.394,
+      "perc": 0.9369695758912278
     },
     {
       "name": "White Pine",
