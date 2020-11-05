@@ -1,13 +1,13 @@
 {
   "name": "Pennsylvania",
-  "biden": 3015.712,
-  "trump": 3202.467,
+  "biden": 3023.667,
+  "trump": 3206.41,
   "counties": [
     {
       "name": "Allegheny",
-      "biden": 392.061,
-      "trump": 266.033,
-      "perc": 0.8862904637384437
+      "biden": 396.042,
+      "trump": 267.838,
+      "perc": 0.8940702688653975
     },
     {
       "name": "Armstrong",
@@ -149,9 +149,9 @@
     },
     {
       "name": "Westmoreland",
-      "biden": 65.136,
-      "trump": 125.178,
-      "perc": 0.9136040988924088
+      "biden": 69.11,
+      "trump": 127.316,
+      "perc": 0.9430009612698232
     }
   ]
 }

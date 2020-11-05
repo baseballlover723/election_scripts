@@ -1,7 +1,7 @@
 {
   "name": "Georgia",
-  "biden": 2387.497,
-  "trump": 2424.819,
+  "biden": 2395.129,
+  "trump": 2426.877,
   "counties": [
     {
       "name": "Appling",
@@ -76,12 +76,6 @@
       "perc": 0.8721004469035966
     },
     {
-      "name": "Dougherty",
-      "biden": 22.083,
-      "trump": 9.647,
-      "perc": 0.9333313873726612
-    },
-    {
       "name": "Douglas",
       "biden": 42.587,
       "trump": 25.301,
@@ -95,9 +89,9 @@
     },
     {
       "name": "Fulton",
-      "biden": 344.435,
-      "trump": 126.755,
-      "perc": 0.9255339805825242
+      "biden": 349.742,
+      "trump": 128.04,
+      "perc": 0.938504854368932
     },
     {
       "name": "Glascock",
