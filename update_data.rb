@@ -4,7 +4,7 @@ require 'httparty'
 URL = 'https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/president.json'
 TRUMP_KEY = "trumpd"
 BIDEN_KEY = "bidenj"
-THRESHOLD = 95
+THRESHOLD = 97
 
 def main()
   state_slugs = ARGV.map(&:downcase)

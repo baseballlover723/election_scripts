@@ -4,6 +4,18 @@
   "trump": 2732.12,
   "counties": [
     {
+      "name": "Anson",
+      "biden": 5.768,
+      "trump": 5.301,
+      "perc": 0.9688695652173913
+    },
+    {
+      "name": "Avery",
+      "biden": 2.171,
+      "trump": 7.092,
+      "perc": 0.9667701863354037
+    },
+    {
       "name": "Beaufort",
       "biden": 9.575,
       "trump": 16.352,
@@ -16,10 +28,22 @@
       "perc": 0.9237638469864812
     },
     {
+      "name": "Burke",
+      "biden": 12.985,
+      "trump": 30.814,
+      "perc": 0.9694137265227313
+    },
+    {
       "name": "Carteret",
       "biden": 11.999,
       "trump": 29.886,
       "perc": 0.956745182012848
+    },
+    {
+      "name": "Chatham",
+      "biden": 26.642,
+      "trump": 21.055,
+      "perc": 0.9698259420609906
     },
     {
       "name": "Chowan",
@@ -40,10 +64,28 @@
       "perc": 0.9135102238005308
     },
     {
+      "name": "Davidson",
+      "biden": 21.483,
+      "trump": 62.143,
+      "perc": 0.9672248967578544
+    },
+    {
+      "name": "Edgecombe",
+      "biden": 15.935,
+      "trump": 9.139,
+      "perc": 0.9629361019925186
+    },
+    {
       "name": "Forsyth",
       "biden": 111.769,
       "trump": 84.176,
       "perc": 0.8904347435954956
+    },
+    {
+      "name": "Jones",
+      "biden": 2.175,
+      "trump": 3.267,
+      "perc": 0.9668547249647391
     },
     {
       "name": "Mecklenburg",
@@ -94,10 +136,46 @@
       "perc": 0.9542834890965732
     },
     {
+      "name": "Randolph",
+      "biden": 15.506,
+      "trump": 56.589,
+      "perc": 0.9625623189939037
+    },
+    {
       "name": "Robeson",
       "biden": 17.998,
       "trump": 25.927,
       "perc": 0.9498861047835991
+    },
+    {
+      "name": "Rowan",
+      "biden": 22.889,
+      "trump": 49.053,
+      "perc": 0.9652281199835494
+    },
+    {
+      "name": "Rutherford",
+      "biden": 9.049,
+      "trump": 24.631,
+      "perc": 0.9601577909270217
+    },
+    {
+      "name": "Stanly",
+      "biden": 8.037,
+      "trump": 25.297,
+      "perc": 0.9597807781234836
+    },
+    {
+      "name": "Surry",
+      "biden": 8.635,
+      "trump": 27.344,
+      "perc": 0.9625484059201104
+    },
+    {
+      "name": "Transylvania",
+      "biden": 8.413,
+      "trump": 11.578,
+      "perc": 0.9652099318495925
     },
     {
       "name": "Wake",
