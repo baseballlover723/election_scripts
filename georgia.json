@@ -1,7 +1,7 @@
 {
   "name": "Georgia",
-  "biden": 2395.129,
-  "trump": 2426.877,
+  "biden": 2402.475,
+  "trump": 2428.517,
   "counties": [
     {
       "name": "Appling",
@@ -89,9 +89,9 @@
     },
     {
       "name": "Fulton",
-      "biden": 349.742,
-      "trump": 128.04,
-      "perc": 0.938504854368932
+      "biden": 353.502,
+      "trump": 129.015,
+      "perc": 0.9478407766990291
     },
     {
       "name": "Glascock",
