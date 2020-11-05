@@ -21,7 +21,7 @@ def main(file)
 
   puts "counties data considered: #{unescape_str(JSON.generate(county_diffs_str))}}"
   puts "biden expected to get #{biden_diff.round(3)}K more votes over #{counties.size} counties (#{avg.round(3)}K per county avg)"
-  puts get_str(current_biden_diff, biden_diff)
+  puts get_str(current_biden_diff, biden_diff) + " in #{name}"
 end
 
 def calc_county(current_biden, current_trump, perc_reporting)
