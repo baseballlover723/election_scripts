@@ -1,7 +1,7 @@
 {
   "name": "Georgia",
-  "biden": 2388.149,
-  "trump": 2425.519,
+  "biden": 2387.497,
+  "trump": 2424.819,
   "counties": [
     {
       "name": "Appling",
@@ -152,6 +152,12 @@
       "biden": 49.201,
       "trump": 29.949,
       "perc": 0.8880720944135686
+    },
+    {
+      "name": "Putnam",
+      "biden": 2.667,
+      "trump": 7.482,
+      "perc": 0.8823428079242033
     },
     {
       "name": "Quitman",

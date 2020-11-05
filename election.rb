@@ -1,12 +1,13 @@
 require "colorize"
 require "json"
-def main()
-  json = JSON.parse(File.read("#{ARGV[0]}.json"))
+def main(file)
+  json = JSON.parse(File.read(file))
   name = json["name"]
   current_biden_state = json["biden"]
   current_trump_state = json["trump"]
   current_biden_diff = current_trump_state - current_biden_state
   counties = json["counties"]
+  puts name
   puts "biden currently needs #{current_biden_diff.round(3)}K votes to win in #{name}"
   county_diffs = {}
   counties.each do |county|
@@ -48,4 +49,7 @@ def unescape_str(str)
   eval("\"#{str.gsub('"', '\"')}\"")
 end
 
-main
+ARGV.each do |file|
+  puts "\n*****************************\n\n"
+  main("#{file}.json")
+end

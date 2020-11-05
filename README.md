@@ -10,4 +10,4 @@ To calculate: `ruby election.rb georgia`
 
 To update data: `ruby update_data.rb georgia north-carolina pennsylvania nevada arizona`
 
-update and run: `ruby update_data.rb georgia north-carolina pennsylvania nevada arizona && ruby election.rb pennsylvania`
+update and run all: `ruby update_data.rb georgia north-carolina pennsylvania nevada arizona && ruby election.rb georgia north-carolina pennsylvania nevada arizona`
