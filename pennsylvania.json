@@ -1,7 +1,7 @@
 {
   "name": "Pennsylvania",
-  "biden": 3120.697,
-  "trump": 3232.066,
+  "biden": 3127.518,
+  "trump": 3236.11,
   "counties": [
     {
       "name": "Allegheny",
@@ -35,21 +35,15 @@
     },
     {
       "name": "Bucks",
-      "biden": 181.197,
-      "trump": 174.63,
-      "perc": 0.9023999399076079
+      "biden": 183.099,
+      "trump": 175.467,
+      "perc": 0.9093356034903665
     },
     {
       "name": "Cambria",
       "biden": 21.293,
       "trump": 47.386,
       "perc": 0.9510824995899623
-    },
-    {
-      "name": "Carbon",
-      "biden": 7.251,
-      "trump": 19.915,
-      "perc": 0.8473507795442664
     },
     {
       "name": "Centre",
@@ -98,12 +92,6 @@
       "biden": 12.475,
       "trump": 27.832,
       "perc": 0.9320293063702554
-    },
-    {
-      "name": "Juniata",
-      "biden": 1.123,
-      "trump": 8.357,
-      "perc": 0.8130184526832571
     },
     {
       "name": "Lawrence",

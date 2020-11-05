@@ -1,7 +1,7 @@
 {
   "name": "Arizona",
-  "biden": 1470.382,
-  "trump": 1401.807,
+  "biden": 1470.56,
+  "trump": 1402.431,
   "counties": [
     {
       "name": "Apache",
@@ -29,15 +29,15 @@
     },
     {
       "name": "Graham",
-      "biden": 3.999,
-      "trump": 10.602,
-      "perc": 0.8481142857142857
+      "biden": 4.034,
+      "trump": 10.747,
+      "perc": 0.8586285714285714
     },
     {
       "name": "Greenlee",
-      "biden": 1.039,
-      "trump": 1.954,
-      "perc": 0.7590750870213824
+      "biden": 1.182,
+      "trump": 2.433,
+      "perc": 0.9179512680258578
     },
     {
       "name": "La Paz",
