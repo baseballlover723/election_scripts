@@ -1,13 +1,13 @@
 {
   "name": "Georgia",
-  "biden": 2446.814,
-  "trump": 2448.081,
+  "biden": 2447.518,
+  "trump": 2448.183,
   "counties": [
     {
       "name": "Clayton",
-      "biden": 91.072,
-      "trump": 15.222,
-      "perc": 0.9669253161020539
+      "biden": 91.776,
+      "trump": 15.324,
+      "perc": 0.9742792512684637
     },
     {
       "name": "Taylor",
