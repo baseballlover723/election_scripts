@@ -1,13 +1,13 @@
 {
   "name": "Pennsylvania",
-  "biden": 3200.462,
-  "trump": 3264.187,
+  "biden": 3224.935,
+  "trump": 3273.789,
   "counties": [
     {
       "name": "Allegheny",
-      "biden": 396.042,
-      "trump": 267.838,
-      "perc": 0.9430027972027972
+      "biden": 396.767,
+      "trump": 268.34,
+      "perc": 0.9513929577464789
     },
     {
       "name": "Armstrong",
@@ -29,9 +29,9 @@
     },
     {
       "name": "Bucks",
-      "biden": 185.267,
-      "trump": 176.436,
-      "perc": 0.9172552799929892
+      "biden": 191.104,
+      "trump": 179.299,
+      "perc": 0.939456915006823
     },
     {
       "name": "Cambria",
@@ -59,9 +59,9 @@
     },
     {
       "name": "Delaware",
-      "biden": 181.376,
-      "trump": 110.239,
-      "perc": 0.854733457878959
+      "biden": 186.832,
+      "trump": 111.636,
+      "perc": 0.8747853036161678
     },
     {
       "name": "Erie",
@@ -89,9 +89,9 @@
     },
     {
       "name": "Lehigh",
-      "biden": 79.879,
-      "trump": 75.56,
-      "perc": 0.8420900445510624
+      "biden": 87.36,
+      "trump": 77.976,
+      "perc": 0.895503127141878
     },
     {
       "name": "Luzerne",
@@ -101,9 +101,9 @@
     },
     {
       "name": "Mercer",
-      "biden": 14.425,
-      "trump": 32.213,
-      "perc": 0.7786182801015195
+      "biden": 19.399,
+      "trump": 34.637,
+      "perc": 0.9017930716239824
     },
     {
       "name": "Monroe",

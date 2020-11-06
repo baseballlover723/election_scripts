@@ -1,8 +1,14 @@
 {
   "name": "Arizona",
-  "biden": 1496.142,
-  "trump": 1438.298,
+  "biden": 1528.319,
+  "trump": 1482.062,
   "counties": [
+    {
+      "name": "Apache",
+      "biden": 15.784,
+      "trump": 7.111,
+      "perc": 0.9647083333333333
+    },
     {
       "name": "Coconino",
       "biden": 40.862,
@@ -29,9 +35,9 @@
     },
     {
       "name": "Maricopa",
-      "biden": 912.585,
-      "trump": 838.071,
-      "perc": 0.8554530120481928
+      "biden": 944.285,
+      "trump": 880.347,
+      "perc": 0.8917489156626506
     },
     {
       "name": "Mohave",
@@ -49,7 +55,7 @@
       "name": "Pima",
       "biden": 291.697,
       "trump": 193.543,
-      "perc": 0.9674686274509804
+      "perc": 0.9506917148362235
     },
     {
       "name": "Pinal",
