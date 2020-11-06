@@ -1,49 +1,37 @@
 {
   "name": "Arizona",
-  "biden": 1532.062,
-  "trump": 1485.01,
+  "biden": 1561.841,
+  "trump": 1520.539,
   "counties": [
     {
-      "name": "Coconino",
-      "biden": 43.815,
-      "trump": 26.212,
-      "perc": 0.9533066666666666
+      "name": "Apache",
+      "biden": 16.574,
+      "trump": 7.491,
+      "perc": 0.7156764705882352
     },
     {
-      "name": "Graham",
-      "biden": 4.034,
-      "trump": 10.747,
-      "perc": 0.8586285714285714
-    },
-    {
-      "name": "Greenlee",
-      "biden": 1.182,
-      "trump": 2.433,
-      "perc": 0.9179512680258578
+      "name": "Cochise",
+      "biden": 21.238,
+      "trump": 29.908,
+      "perc": 0.8558852459016394
     },
     {
       "name": "La Paz",
       "biden": 2.05,
       "trump": 4.542,
-      "perc": 0.8902666666666667
+      "perc": 0.9538571428571428
     },
     {
       "name": "Maricopa",
-      "biden": 944.285,
-      "trump": 880.347,
-      "perc": 0.8917489156626506
-    },
-    {
-      "name": "Mohave",
-      "biden": 23.993,
-      "trump": 74.553,
-      "perc": 0.960375
+      "biden": 972.57,
+      "trump": 912.115,
+      "perc": 0.9327648780487805
     },
     {
       "name": "Navajo",
       "biden": 22.541,
       "trump": 26.024,
-      "perc": 0.9310754716981132
+      "perc": 0.8657368421052631
     },
     {
       "name": "Pima",
@@ -59,15 +47,15 @@
     },
     {
       "name": "Santa Cruz",
-      "biden": 12.321,
-      "trump": 5.589,
-      "perc": 0.90685
+      "biden": 13.121,
+      "trump": 6.179,
+      "perc": 0.9307619047619048
     },
     {
       "name": "Yuma",
       "biden": 28.297,
       "trump": 32.614,
-      "perc": 0.8708591549295774
+      "perc": 0.9439847328244275
     }
   ]
 }
