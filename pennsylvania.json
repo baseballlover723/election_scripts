@@ -1,7 +1,7 @@
 {
   "name": "Pennsylvania",
-  "biden": 3127.518,
-  "trump": 3236.11,
+  "biden": 3200.462,
+  "trump": 3264.187,
   "counties": [
     {
       "name": "Allegheny",
@@ -28,16 +28,10 @@
       "perc": 0.9366940100547024
     },
     {
-      "name": "Blair",
-      "biden": 14.628,
-      "trump": 41.824,
-      "perc": 0.8967249662448582
-    },
-    {
       "name": "Bucks",
-      "biden": 183.099,
-      "trump": 175.467,
-      "perc": 0.9093356034903665
+      "biden": 185.267,
+      "trump": 176.436,
+      "perc": 0.9172552799929892
     },
     {
       "name": "Cambria",
@@ -47,9 +41,9 @@
     },
     {
       "name": "Centre",
-      "biden": 38.978,
-      "trump": 35.849,
-      "perc": 0.8621564099080741
+      "biden": 39.711,
+      "trump": 36.041,
+      "perc": 0.8727527962686229
     },
     {
       "name": "Clarion",
@@ -59,33 +53,27 @@
     },
     {
       "name": "Crawford",
-      "biden": 6.053,
-      "trump": 24.18,
-      "perc": 0.7241143288725247
-    },
-    {
-      "name": "Cumberland",
-      "biden": 40.234,
-      "trump": 67.021,
-      "perc": 0.7745612294082622
+      "biden": 10.052,
+      "trump": 26.439,
+      "perc": 0.8734452075810144
     },
     {
       "name": "Delaware",
-      "biden": 179.69,
-      "trump": 109.701,
-      "perc": 0.8482570853427177
+      "biden": 181.376,
+      "trump": 110.239,
+      "perc": 0.854733457878959
     },
     {
       "name": "Erie",
-      "biden": 58.742,
-      "trump": 62.384,
-      "perc": 0.8586514065854407
+      "biden": 66.966,
+      "trump": 65.647,
+      "perc": 0.9404536203195137
     },
     {
       "name": "Greene",
-      "biden": 2.549,
-      "trump": 11.034,
-      "perc": 0.7705175704502077
+      "biden": 3.631,
+      "trump": 11.637,
+      "perc": 0.8658358594363983
     },
     {
       "name": "Indiana",
@@ -101,9 +89,9 @@
     },
     {
       "name": "Lehigh",
-      "biden": 72.663,
-      "trump": 73.321,
-      "perc": 0.7910812200137081
+      "biden": 79.879,
+      "trump": 75.56,
+      "perc": 0.8420900445510624
     },
     {
       "name": "Luzerne",
@@ -125,15 +113,9 @@
     },
     {
       "name": "Philadelphia",
-      "biden": 488.491,
-      "trump": 116.526,
-      "perc": 0.8250175675675676
-    },
-    {
-      "name": "Tioga",
-      "biden": 2.616,
-      "trump": 13.387,
-      "perc": 0.7886324125941665
+      "biden": 509.491,
+      "trump": 119.287,
+      "perc": 0.8875412587412588
     },
     {
       "name": "Westmoreland",
