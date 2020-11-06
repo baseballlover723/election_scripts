@@ -1,19 +1,13 @@
 {
   "name": "Arizona",
-  "biden": 1528.319,
-  "trump": 1482.062,
+  "biden": 1532.062,
+  "trump": 1485.01,
   "counties": [
     {
-      "name": "Apache",
-      "biden": 15.784,
-      "trump": 7.111,
-      "perc": 0.9647083333333333
-    },
-    {
       "name": "Coconino",
-      "biden": 40.862,
-      "trump": 23.644,
-      "perc": 0.8771333333333333
+      "biden": 43.815,
+      "trump": 26.212,
+      "perc": 0.9533066666666666
     },
     {
       "name": "Graham",
