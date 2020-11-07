@@ -1,13 +1,13 @@
 {
   "name": "Pennsylvania",
-  "biden": 3311.673,
-  "trump": 3298.011,
+  "biden": 3336.887,
+  "trump": 3308.054,
   "counties": [
     {
       "name": "Allegheny",
-      "biden": 396.767,
-      "trump": 268.34,
-      "perc": 0.9447398601398601
+      "biden": 410.553,
+      "trump": 272.135,
+      "perc": 0.9696601398601399
     },
     {
       "name": "Armstrong",
@@ -28,34 +28,22 @@
       "perc": 0.97006129184347
     },
     {
-      "name": "Greene",
-      "biden": 3.631,
-      "trump": 11.637,
-      "perc": 0.8647678851760484
-    },
-    {
       "name": "Lawrence",
       "biden": 15.557,
       "trump": 29.071,
       "perc": 0.9565079432234045
     },
     {
-      "name": "Mercer",
-      "biden": 19.399,
-      "trump": 34.637,
-      "perc": 0.9599824561403508
-    },
-    {
       "name": "Philadelphia",
-      "biden": 553.953,
-      "trump": 125.513,
-      "perc": 0.9591482517482518
+      "biden": 555.833,
+      "trump": 125.897,
+      "perc": 0.9623538461538461
     },
     {
       "name": "Washington",
-      "biden": 44.231,
-      "trump": 71.072,
-      "perc": 0.9657851239669422
+      "biden": 44.712,
+      "trump": 71.375,
+      "perc": 0.9723801652892562
     },
     {
       "name": "York",

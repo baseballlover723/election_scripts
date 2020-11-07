@@ -1,7 +1,7 @@
 {
   "name": "Nevada",
-  "biden": 627.104,
-  "trump": 606.967,
+  "biden": 632.558,
+  "trump": 609.901,
   "counties": [
     {
       "name": "Carson City",
@@ -17,9 +17,9 @@
     },
     {
       "name": "Clark",
-      "biden": 451.858,
-      "trump": 376.636,
-      "perc": 0.9269395604395605
+      "biden": 457.312,
+      "trump": 379.57,
+      "perc": 0.8831378238341969
     },
     {
       "name": "Douglas",

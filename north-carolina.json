@@ -1,13 +1,13 @@
 {
   "name": "North Carolina",
-  "biden": 2655.383,
-  "trump": 2732.12,
+  "biden": 2656.303,
+  "trump": 2732.818,
   "counties": [
     {
       "name": "Anson",
-      "biden": 5.768,
-      "trump": 5.301,
-      "perc": 0.9688695652173913
+      "biden": 5.788,
+      "trump": 5.321,
+      "perc": 0.9724347826086956
     },
     {
       "name": "Avery",
@@ -71,9 +71,9 @@
     },
     {
       "name": "Edgecombe",
-      "biden": 15.935,
-      "trump": 9.139,
-      "perc": 0.9629361019925186
+      "biden": 16.027,
+      "trump": 9.162,
+      "perc": 0.96740209176273
     },
     {
       "name": "Forsyth",
@@ -143,9 +143,9 @@
     },
     {
       "name": "Robeson",
-      "biden": 17.998,
-      "trump": 25.927,
-      "perc": 0.9498861047835991
+      "biden": 18.094,
+      "trump": 26.012,
+      "perc": 0.9537972235354795
     },
     {
       "name": "Rowan",
